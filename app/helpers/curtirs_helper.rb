@@ -1,0 +1,2 @@
+module CurtirsHelper
+end
