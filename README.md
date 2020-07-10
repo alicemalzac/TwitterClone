@@ -7,6 +7,4 @@ Desenvolvi esse projeto, como estagiária de BackEnd, na Universidade de Fortale
 ## Linguagem
 
 Foi desenvolvido em Ruby on Rais.
-* Deployment instructions
 
-* ...
