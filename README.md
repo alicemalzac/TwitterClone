@@ -1,10 +1,9 @@
-# Treinamento
+#Twitter Clone
 
-## Sobre o projeto
+## About the project
 
-Desenvolvi esse projeto, como estagiária de BackEnd, na Universidade de Fortaleza, como forma de estudo e buscando fixar conhecimentos novos adquiridos.
+I developed this project, as a BackEnd intern, at the University of Fortaleza, as a way of studying and looking for new acquired fundamentals.
  
-## Linguagem
+## Language
 
-Foi desenvolvido em Ruby on Rais.
-
+It was developed in Ruby on Rais.
