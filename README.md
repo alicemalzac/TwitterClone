@@ -1,4 +1,4 @@
-#Twitter Clone
+# Twitter Clone
 
 ## About the project
 
